@@ -1,0 +1,6 @@
+{
+  "name": "Voxel Enduro",
+  "description": "Jogo de corrida arcade em estilo voxel inspirado no clássico Enduro do Atari, com personalização completa de veículos e pistas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
